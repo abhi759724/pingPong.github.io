@@ -1,0 +1,7 @@
+body {
+  text-align: center;
+}
+#gameBoard {
+  background-color: silver;
+  border: 2px solid black;
+}
